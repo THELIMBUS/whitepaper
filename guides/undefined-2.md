@@ -152,5 +152,24 @@ XT.COM은 코인 거래, OTC 거래, 레버리지 거래, 계약 거래, 신용�
 * Twitter: [https://twitter.com/CATBOTICA](https://twitter.com/CATBOTICA)
 * Discord: [https://discord.gg/catbotica](https://discord.gg/catbotica)
 
+## 클레이킹덤(KlayKingdom)
 
+![](<../.gitbook/assets/LIMBUS X KLAYKINGDOM\_1.png>)
 
+### 협업사 소개
+
+클레이 킹덤은 메타버스(Metaverse)에서 구현되는 탈중앙화 거래소(Decentralized Exchange, DEX)와 대체 불가능 토큰(Non-Fungible Token, NFT) 자산 그리고 이 NFT 자산을 통해 플레이어들이 즐길 수 있는 흥미로운 전략 RPG 게임으로 추가적인 수익을 얻을 수 있는 메타버스 게임파이(MetaFi)입니다.
+
+클레이 킹덤은 판타지 픽셀 아트 형태의 메타버스에서 가상화폐 유동성을 공급하여 보상을 받고, 스테이킹을 통하여 추가적인 이자 농사를 지을 수 있는 탈중앙화 금융(Decentralized Finance, DeFi) 서비스입니다. 이는 사용자들로 하여금 레트로적 감성을 느낄 수 있게 해줄뿐더러, 다양한 전략적 게임 요소를 통해 추가적인 수익과 재미를 느낄 수 있게 해줍니다. 클레이 킹덤 팀은 이를 재해석하고 발전시킨 모델로 클레이튼 생태계의 Game-Fi MMORPG를 목표로 하고 있습니다.
+
+지난 5월 2-3일에 걸쳐 총 9,000의 KINGs NFT 민팅 후 DEX 론칭을 앞두고 있으며, 올 여름 론칭을 목표로 개발 진행 중인 혈맹/광산 컨텐츠가 준비되고 있습니다.
+
+### 협업 내용
+
+*
+
+### 관련 링크
+
+* Website: [https://klaykingdoms.com/](https://klaykingdoms.com/)
+* Twitter: [https://twitter.com/KlayKingdoms](https://twitter.com/KlayKingdoms)
+* Discord: [https://discord.gg/klaykingdoms](https://discord.gg/klaykingdoms)
