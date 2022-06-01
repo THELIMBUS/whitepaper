@@ -20,7 +20,7 @@
   * [캐릭터 컨셉](about-game/undefined-4/undefined-2.md)
   * [게임 컨텐츠 - 미니 게임](about-game/undefined-4/undefined-3.md)
   * [게임 컨텐츠 - 탐험](about-game/undefined-4/undefined-4.md)
-* [게임 내 재화 흭득과 소모(Ka,Ib)](about-game/ka-ib.md)
+  * [게임 내 재화 흭득과 소모(Ka,Ib)](about-game/undefined-4/ka-ib.md)
 * [NFT 요소](about-game/nft.md)
 * [P2E 요소](about-game/p2e.md)
 * [개발 일정](<about-game/undefined-3 (1).md>)
