@@ -13,7 +13,7 @@
 * [게임 소개](about-game/undefined.md)
 * [개발 팀 구성](about-game/undefined-1.md)
 * [스토리](about-game/undefined-2.md)
-* [기본시스템](about-game/undefined-3.md)
+* [기본 시스템](about-game/undefined-3.md)
 * [게임소개](about-game/undefined-4/README.md)
   * [게임 방식](about-game/undefined-4/undefined.md)
   * [그래픽 컨셉](about-game/undefined-4/undefined-1.md)
