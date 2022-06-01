@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # 그래픽 컨셉
 
 ![](<../../.gitbook/assets/캡처 (9).PNG>)

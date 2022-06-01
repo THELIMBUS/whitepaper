@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # 파트너십
 
 ## 비상교육(Visang Education)

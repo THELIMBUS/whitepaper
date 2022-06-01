@@ -1,5 +1,7 @@
 ---
 description: About LIMBUS
+cover: .gitbook/assets/배너B_오픈씨.jpg
+coverY: 0
 ---
 
 # LIMBUS

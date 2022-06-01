@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # 캐릭터 컨셉
 
 • LIMBUS 의 캐릭터는 LIMBUS IP 와 12마리의 동물을 결합한 컨셉으로, 6등신 캐릭터 제작 예정&#x20;

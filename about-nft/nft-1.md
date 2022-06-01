@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # NFT 구성
 
 {% hint style="info" %}

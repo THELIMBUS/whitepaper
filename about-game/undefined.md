@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # 게임 소개
 
 ## 게임 장르 및 소개

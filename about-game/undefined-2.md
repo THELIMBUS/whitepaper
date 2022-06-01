@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
+coverY: 0
+---
+
 # 스토리
 
 ![](<../.gitbook/assets/image (1) (1).png>)
