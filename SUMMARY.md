@@ -10,11 +10,13 @@
 
 ## About Game
 
-* [스토리](about-game/undefined.md)
+* [개발 팀 구성](about-game/undefined.md)
+* [스토리](about-game/undefined-1.md)
+* [기본시스템](about-game/undefined-2.md)
 * [LIMBUS에 대해](about-game/limbus.md)
-* [게임 내 재화 흭득과 소모](about-game/undefined-1.md)
-* [게임 소개](about-game/undefined-2.md)
-* [개발 일정](about-game/undefined-3.md)
+* [게임 내 재화 흭득과 소모](about-game/undefined-3.md)
+* [게임 소개](about-game/undefined-4.md)
+* [개발 일정](about-game/undefined-5.md)
 
 ## About NFT
 
