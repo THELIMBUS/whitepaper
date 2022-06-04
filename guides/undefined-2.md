@@ -189,7 +189,7 @@ XT.COM은 코인 거래, OTC 거래, 레버리지 거래, 계약 거래, 신용�
 
 LG유플러스는 1996년 7월 11일 설립 이래 현재까지 고객의 삶에 의미 있는 변화를 만들기 위해 노력해 왔습니다. 이동통신사업과 초고속 인터넷, VoIP(데이터 음성통화), IPTV 서비스로 구성된 결합 서비스와 각종 솔루션 및 데이터 서비스 사업을 꾸준히 발전시켜 왔으며 2012년에는 세계 최초로 LTE 전국망을 구축해 초고속, 고품질 서비스를 제공했습니다. 5G 및 IoT 시대에도 고객에게 여유와 행복, 편의를 가져다 줄 새로운 생활 가치를 만들어 나가도록 최선을 다하겠습니다.
 
-### 협업 내
+### 협업 내용
 
 * 마케팅 지원
 * 상호 협력을 통한 사업 확장
@@ -198,3 +198,119 @@ LG유플러스는 1996년 7월 11일 설립 이래 현재까지 고객의 삶에
 
 * Website\_LG U+: [https://www.lguplus.com/](https://www.lguplus.com/)
 * Website\_LG U+ Golf: [https://bit.ly/3sOD2A9](https://bit.ly/3sOD2A9)
+
+## 서바이벌리즘(**SurvivalismG)**
+
+![](<../.gitbook/assets/LIMBUS X SurvivalismG\_1.png>)
+
+### 협업사 소개
+
+SurvivalismG is an NFT Blockchain RPG game designed as the P2E model in which players can claim profits from playing it. Producers with careers in game developing companies such as KakaoEntertainment, Krafton, and Linegames, and Advisors who have tons of experience in Drawshop Kingdom Reverse, Sheepfarm in Metaland, Metakongz, 바람의나라:연 , 가짜사나이, 머니게임 etc., have come together to launch and manage this project successfully.
+
+### 협업 내용
+
+* Promotion and events of mutual projects through marketing collaboration
+* In-game IP exchange and in-game content liquidity enhancement
+* Building various BMs through mutual collaboration
+
+### 관련 링크
+
+* Website: [https://survivalism.io/](https://survivalism.io/)
+* Twitter: [https://twitter.com/SurvivalismG](https://twitter.com/SurvivalismG)
+* Discord: [https://discord.gg/SurvivalismG](https://discord.gg/SurvivalismG)
+* Opensea: [https://opensea.io/collection/survivalismg](https://opensea.io/collection/survivalismg)
+* Whitepaper: [https://survivalismg.gitbook.io/survivalismg/](https://survivalismg.gitbook.io/survivalismg/)
+
+## 미캣츠(MEECATS)
+
+![](<../.gitbook/assets/LIMBUS X MEECATS\_1.png>)
+
+### 협업사 소개
+
+A new metaverse experience full of exciting adventures, MEETOPIA! The MEECATS team is an ongoing project aimed at implementing the Gamefied Ecosystem -'MEETOPIA'. From PFP NFT to token and on-chain data, NFT provides 'MEECATS' own gamefied experience.
+
+### 협업 내용
+
+* Various marketing collaborations and events for holders/users utilizing IP of mutual projects
+* In-game IP exchange
+* BM construction and liquidity expansion through discussion between the two companies, including platform onboarding\\
+
+### 관련 링크
+
+* Homepage: [https://meecats.io/](https://meecats.io/)
+* Whitepaper: [https://meecats.gitbook.io/kor](https://meecats.gitbook.io/kor)
+* Twitter: [https://twitter.com/MeeCatsClub](https://twitter.com/MeeCatsClub)
+* Discord: [https://discord.com/invite/CxtkJNba7M](https://discord.com/invite/CxtkJNba7M)
+* Youtube: [https://www.youtube.com/c/MeeCats](https://www.youtube.com/c/MeeCats)
+* Instagram: [https://www.instagram.com/meecats\_club](https://www.instagram.com/meecats\_club)
+
+## 퀸지립스(QueenzyLips)
+
+![](<../.gitbook/assets/LIMBUS X QUEENSLIPS\_1.png>)
+
+### 협업사 소개
+
+Based on the lips drawn by the artist MINZY, who has a passion for drawing, created it so that she could communicate and share her interests.
+
+### 협업 내용
+
+* Marketing Collaboration
+* Community Expansion Collaboration
+
+### 관련 링크
+
+* Website: [https://queenzylips.art/](https://queenzylips.art/)
+* Twitter: [https://twitter.com/QueenzyLips](https://twitter.com/QueenzyLips)
+* Discord: [http://discord.gg/u4n79GMWKd](http://discord.gg/u4n79GMWKd)
+
+## 클레이다이스(KLAYDICE)
+
+![](<../.gitbook/assets/LIMBUS X KLAYDICE\_1.png>)
+
+### 협업사 소개
+
+KLAYDICE is a project that connects the rapidly growing virtual worlds (P2E games, SNS, metaverse, etc.) into one world using the KLAYDICE NFT. KLAYDICE is a P2E version of its traditional version mobile game, Dicast: Rules of Chaos, which has 900K global users and 1M downloads on app stores and will be the first P2E game launched this year.
+
+### 관련 링크
+
+* Website: [https://klaydice.io/](https://klaydice.io/)
+* Twitter: [https://twitter.com/klaydice](https://twitter.com/klaydice)
+* Discord: [http://discord.gg/klaydice](http://discord.gg/klaydice)
+* Docs: [https://docs.klaydice.io/](https://docs.klaydice.io/)
+* Telegram: [http://t.me/KlayDice\_official](http://t.me/KlayDice\_official)
+
+## 스마스(SMATh, PRD\_X)
+
+![](<../.gitbook/assets/LIMBUS X SMATH\_1.png>)
+
+### 협업사 소개
+
+팀 스마스(SMATh)는 3D 기반의 전문 아트팀으로서 순수 미술과 3D기술을 접목하여 한계를 뛰어넘는 스마스만의 독특하고 유니크한 스타일과 세계관으로 작품을 만들고 있습니다. 페러독스 (PRD\_X)는 이더리움 기반의 스마스 팀의 첫 제러네이티브 PFP 프로젝트입니다.
+
+패러독스는 8,888개의 NFT로 발행되며, 1차는 노마드에입 NFT 홀더 대상의 프라이빗 할인 판매가 : 0.09 ETH 2차는 커뮤니티 활동을 통해 화이트리스트 권한을 부여받은 회원 대상의 프라이빗 판매 가 :0.11 ETH 3차는 일반 회원 대상으로 판매가 :0.13 ETH 으로 민팅은 6월 17일부터 6월 19일까지 순차적으로 진행됩니다.
+
+패러독스 NFT 홀더분들 대상으로 추첨을 통해 88분에게는 커스터마이징한 스페셜 노마 NFT가 제공되며 토크노믹스 적용, 스마스 월드 오프라인 행사 개최, 홀더 대상 에어드롭, 아트 콜라보레이션, 오프라인 전시회 등이 준비되어 있으며 이후 IP사업화 전략 발표, 굿즈샵 오픈, 토큰 거래 활성화, 게임 런칭, 대형브랜드와 신규 프로젝트 칭, 커뮤니티를 활용한 여러 이벤트들이 계획되어 있습니다.
+
+### 협업 부문
+
+* 마케팅 협업을 통한 상호 프로젝트 홍보
+* 온오프라인 이벤트 기획 및 진행
+
+### 관련 링크
+
+* Website: [https://smath.world/](https://smath.world/)
+* Twitter SMATh: [https://twitter.com/teamSMATh](https://twitter.com/teamSMATh)
+* Twitter PRD\_X: [https://twitter.com/SMATh\_PRD\_X](https://twitter.com/SMATh\_PRD\_X)
+* Discord: [https://discord.gg/smathworld](https://discord.gg/smathworld)
+* Gitbook: [https://smath-int.gitbook.io/main](https://smath-int.gitbook.io/main)
+* Instagram: [https://www.instagram.com/smath\_world](https://www.instagram.com/smath\_world)
+* Genesis NFT Gallery: [https://oncyber.io/smathworld](https://oncyber.io/smathworld)
+
+
+
+
+
+
+
+
+
