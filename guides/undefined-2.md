@@ -9,25 +9,32 @@ coverY: 0
 
 ![](../.gitbook/assets/VISANG\_1.png)
 
+### 협업사 소개
+
 비상교육은 유ㆍ초ㆍ중ㆍ고교생을 대상으로 교육콘텐츠를 개발하고 제공하는 전문 교육 기업입니다. 지배회사 및 연결대상종속회사들이 영위하는 중요사업으로는 교과서 및 교재 출판사업, 온라인 교육서비스사업, 입시학원사업, 교육연수사업, 프랜차이즈 내신학원사업, 유아교육 사업, 멀티미디어 콘텐츠 개발 및 스마트(디지털)교육 서비스사업이 있습니다.
 
+### 관련 링크
 
-
-VISANG Education is a professional education company that develops and provides educational contents for pre-school, elementary, middle and high school students. They run businesses like publishing textbook, produce educational contents, online education services business, educational tutoring business, franchise new academy businesses, early childhood education businesses and multimedia contents development.
+* Website: [https://www.visang.com/](https://www.visang.com/)
 
 ## 퍼스트원 엔터테인먼트(FirstOne Entertainment)
 
 ![](<../.gitbook/assets/First One X LIMBUS.jpg>)
 
+### 협업사 소개&#x20;
+
 First One ENT는 가수 나윤권, 키썸, 4세대 케이팝 아이돌 나인아이가 소속된 엔터테인먼트 회사입니다. 최근 네오위즈랩과 AR,IT기술을 접목한 색다른 마케팅을 진행하고 있습니다. LIMBUS와 First One ENT는 상호 협력을 통해 시너지 창출을 목표로 합니다.
 
+### 관련 링크
 
-
-First One ENT is an entertainment company with celebrities\&singer which Yoon-Kwon Na, Kisum, and 4th generation K-pop idol Nine I belong to. Recently, First One ENT provides a unique marketing campaign with Neowiz Lab by using AR\&IT technologies. LIMBUS and First One ENT aim to create synergy through this partnership.
+* Website: [https://www.firstone-ent.com/](https://www.firstone-ent.com/)
+* Twitter: [https://twitter.com/FirstOne\_Enter](https://twitter.com/FirstOne\_Enter)
 
 ## 하이퍼스포츠클럽(HyperSportsClub)
 
 ![](../.gitbook/assets/HyperSportsClub\_1.png)
+
+### 협업사 소개
 
 스티브J & 요니P 스타 디자이너의 컴퍼니, 키키히어로즈에서 진행하는 대체불가능토큰(NFT) 기반 Asia No.1 스니커즈&패션 브랜드 ‘하이퍼 스포츠 클럽’
 
@@ -35,13 +42,10 @@ First One ENT is an entertainment company with celebrities\&singer which Yoon-Kw
 
 더 이상 꽉찬 당신의 옷장이 아닌 하이퍼 스포츠 클럽이 준비한 디지털 closet에 당신의 스니커즈와 옷을 stock해보세요.
 
+### 관련 링크
 
-
-Hyper Sports Club', Asia's No.1 sneaker & fashion brand based on non-fungible token (NFT), hosted by Steve J & Yoni P's Star designer company, It's Kiki Heroes
-
-'Hyper Sports Club' NFT is breaking down the boundaries between crypto fashion and physical fashion, starting with sneakers and fashion-based PFP NFT. Following the plan to release limited edition NFT digital sneakers and digital clothes that exceed imagination in your digital closet.
-
-Stock your sneakers and clothes in a digital closet prepared by Hyper Sports Club, no longer in your full wardrobe.
+* Twitter: [https://twitter.com/hypersportsclub](https://twitter.com/hypersportsclub)
+* discord: [https://t.co/TPDoiL0Qf5](https://t.co/TPDoiL0Qf5)
 
 ## 클레이에이프(KlayApeClub)
 
