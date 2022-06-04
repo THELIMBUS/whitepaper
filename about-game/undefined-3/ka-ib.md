@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
+cover: ../../.gitbook/assets/배너B_오픈씨 (3).jpg
 coverY: 0
 ---
 
@@ -9,7 +9,7 @@ coverY: 0
 
 Ka(카) – Limbus에서 빛(영혼)처럼 보이며, Anima의 생명력을 유지하기 위한 기본 골드와 같은 재화
 
-![](../.gitbook/assets/KakaoTalk\_20220422\_095444540.png)
+![](../../.gitbook/assets/KakaoTalk\_20220422\_095444540.png)
 
 
 
@@ -35,5 +35,5 @@ Ka(카) – Limbus에서 빛(영혼)처럼 보이며, Anima의 생명력을 유�
 
 ## Ib(이브)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8).png>)
 

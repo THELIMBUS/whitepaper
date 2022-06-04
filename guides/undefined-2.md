@@ -180,3 +180,21 @@ XT.COM은 코인 거래, OTC 거래, 레버리지 거래, 계약 거래, 신용�
 * Website: [https://klaykingdoms.com/](https://klaykingdoms.com/)
 * Twitter: [https://twitter.com/KlayKingdoms](https://twitter.com/KlayKingdoms)
 * Discord: [https://discord.gg/klaykingdoms](https://discord.gg/klaykingdoms)
+
+## LG유플러스
+
+![](<../.gitbook/assets/LIMBUS X LG U+\_1.png>)
+
+### 협업사 소개
+
+LG유플러스는 1996년 7월 11일 설립 이래 현재까지 고객의 삶에 의미 있는 변화를 만들기 위해 노력해 왔습니다. 이동통신사업과 초고속 인터넷, VoIP(데이터 음성통화), IPTV 서비스로 구성된 결합 서비스와 각종 솔루션 및 데이터 서비스 사업을 꾸준히 발전시켜 왔으며 2012년에는 세계 최초로 LTE 전국망을 구축해 초고속, 고품질 서비스를 제공했습니다. 5G 및 IoT 시대에도 고객에게 여유와 행복, 편의를 가져다 줄 새로운 생활 가치를 만들어 나가도록 최선을 다하겠습니다.
+
+### 협업 내
+
+* 마케팅 지원
+* 상호 협력을 통한 사업 확장
+
+### 관련 링크
+
+* Website\_LG U+: [https://www.lguplus.com/](https://www.lguplus.com/)
+* Website\_LG U+ Golf: [https://bit.ly/3sOD2A9](https://bit.ly/3sOD2A9)
