@@ -66,8 +66,6 @@ First One ENT는 가수 나윤권, 키썸, 4세대 케이팝 아이돌 나인아
 * IP 활용한 아트워크 제작
 * 실물 굿즈 제작
 
-
-
 ### 관련 링크
 
 * Website: [https://klayape.club/](https://klayape.club/)&#x20;
@@ -310,11 +308,84 @@ KLAYDICE is a project that connects the rapidly growing virtual worlds (P2E game
 * Instagram: [https://www.instagram.com/smath\_world](https://www.instagram.com/smath\_world)
 * Genesis NFT Gallery: [https://oncyber.io/smathworld](https://oncyber.io/smathworld)
 
+## ADOONGA: Meta City
 
+![](<../.gitbook/assets/LIMBUS X ADOONGA\_1 (1).png>)
 
+### 협업사 소개
 
+Adoonga:MetaCity is a Solana-based P2E construction simulation game in in which users can generate revenue by decorating and strategically managing their own buildings and districts. VOOZCLUB is a major character branding company that is best known as the father of PUCCA. The company has been involved in a variety of media activities featuring Adoonga, one of its original IP’s, and now aims to successfully expand the Adoonga universe by incorporating the P2E paradigm. This project is funded by Woori Technology investment co,. LTD.
 
+### 협업 부문
 
+* Collaboration on P2E game development know-how
+* Marketing Collaboration for Blockchain Ecosystem
+* Communication for Community Revitalization
+* Event between the two companies
 
+### 관련 링크
 
+* Website: [https://adoonga.io/](https://adoonga.io/)
+* Medium: [https://medium.com/@adoonga\_metacity/](https://medium.com/@adoonga\_metacity/)
+* Twitter: [https://twitter.com/adoonga\_meta\_ct/](https://twitter.com/adoonga\_meta\_ct/)
+* Telegram: [https://t.me/adoonga\_metacity/](https://t.me/adoonga\_metacity/)
+* Opensea(For event): [https://opensea.io/Adoonga\_Official-Event/](https://opensea.io/Adoonga\_Official-Event/)
+* Opensea(For minting): [https://opensea.io/Adoonga\_Official-Minting/](https://opensea.io/Adoonga\_Official-Minting/)
+* Opensea(Collection): [https://opensea.io/collection/adoonga-official/](https://opensea.io/collection/adoonga-official/)
+* Whitepaper : [https://adoonga.gitbook.io/adoonga-metacity/](https://adoonga.gitbook.io/adoonga-metacity/)
+* Whitepaper(Eng) : [https://adoonga.gitbook.io/adoonga-metacity-eng/](https://adoonga.gitbook.io/adoonga-metacity-eng/)
 
+## Storm Games
+
+![](<../.gitbook/assets/LIMBUS X StormGames\_1 (1).png>)
+
+### 협업사 소개
+
+Four Gods on WEMIX is a blockchain game version of the open field action MMORPG "Sassin" set in the Middle Eastern era, with cooperative play between users according to occupations divided into tanker, dealer, and healer as key content.
+
+### 협업 부문
+
+* Promotion and events of mutual projects through marketing collaboration
+* In-game content liquidity enhancement
+* Building various BMs through mutual collaboration
+
+### 관련 링크
+
+* Linktree: [https://linktr.ee/fourgods](https://linktr.ee/fourgods)
+* Website: [https://fourgodsglobal.com/](https://fourgodsglobal.com/)
+* Twitter: [https://twitter.com/FourGodsOnWEMIX](https://twitter.com/FourGodsOnWEMIX)
+* Facebook: [https://www.facebook.com/FourGodsonWEMIX/](https://www.facebook.com/FourGodsonWEMIX/)
+* Discord: [https://discord.gg/avA6qf4jEM](https://discord.gg/avA6qf4jEM)
+
+## MetaToyDragonZ
+
+![](<../.gitbook/assets/LIMBUS X METATOYDRAGONZ\_1.png>)
+
+### 협업사 소개
+
+The Meta Toy DragonZ is a NFT project based on Generative Pixel Art. Expect the growth and battle of Meta Toy Dragons to take over the throne of the toy world. It promises a precise game economy system and holder governance.
+
+### 관련 링크
+
+* Website: [https://metatoydragonz.io/](https://metatoydragonz.io/)
+* Twitter: [https://twitter.com/MetaToyDragonZ](https://twitter.com/MetaToyDragonZ)
+* Discord: [https://discord.gg/JRe5962rTa](https://discord.gg/JRe5962rTa)
+* Opensea: [https://opensea.io/collection/mtdz-1](https://opensea.io/collection/mtdz-1)
+
+## Drawshop Kingdom Reverse
+
+![](<../.gitbook/assets/LIMBUS X DRAWSHOPKINGDOMS\_1.png>)
+
+### 협업사 소개
+
+Drawshop Kingdom Reverse is a DAO-based Metaverse that consists of NFTs, P2E, and GameFi elements. In DKR World, you can create your own NFT draw-machines via Gacha Contract, enjoy Land Festivals along with other global users, or compete against other users through the strategic operation of your Drawshop!
+
+Furthermore, you may create your own 2D dotted Art Galleries, which can be used to decorate your own Land. DKR is currently being funded by Krust Universe, the global investment arm of Kakao. Our project is led by world-class game developers, game directors, and blockchain developers, from well-known companies such as KRAFTON and PATI games
+
+### 관련 링크
+
+* Website: [https://drawshop.io/](https://drawshop.io/)
+* Medium: [https://medium.com/drawshop](https://medium.com/drawshop)
+* Discord: [https://discord.gg/drawshop](https://discord.gg/drawshop)
+* Twitter: [https://twitter.com/DrawshopKingdom](https://twitter.com/DrawshopKingdom)
+* Telegram: [https://t.me/drawshop](https://t.me/drawshop)
