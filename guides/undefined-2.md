@@ -412,7 +412,7 @@ This function allows you to obtain tokens by relaxing at your designated 'azit'.
 
 ### 관련 링크
 
-* [https://gasc.azit.app/](https://gasc.azit.app/)
-* [https://t.co/dAgP95Ex05](https://t.co/dAgP95Ex05)
-* [https://twitter.com/gaang\_azi](https://twitter.com/gaang\_azi)
-* [https://azitalliance.gitbook.io/gasc/gasc/azit-universe](https://azitalliance.gitbook.io/gasc/gasc/azit-universe)
+* Website: [https://gasc.azit.app/](https://gasc.azit.app/)
+* Discord: [https://t.co/dAgP95Ex05](https://t.co/dAgP95Ex05)
+* Twitter: [https://twitter.com/gaang\_azi](https://twitter.com/gaang\_azi)
+* Whitepaper: [https://azitalliance.gitbook.io/gasc/gasc/azit-universe](https://azitalliance.gitbook.io/gasc/gasc/azit-universe)
