@@ -389,3 +389,30 @@ Furthermore, you may create your own 2D dotted Art Galleries, which can be used 
 * Discord: [https://discord.gg/drawshop](https://discord.gg/drawshop)
 * Twitter: [https://twitter.com/DrawshopKingdom](https://twitter.com/DrawshopKingdom)
 * Telegram: [https://t.me/drawshop](https://t.me/drawshop)
+
+## GASC(Gang Azi Social Club)
+
+![](<../.gitbook/assets/LIMBUS x GASC\_1.png>)
+
+### 협업사 소개
+
+GASC is a membership NFT project that takes a break and gets tokens through the Relax To Earn function.&#x20;
+
+**What is R2E (Relax To Earn)?**&#x20;
+
+This function allows you to obtain tokens by relaxing at your designated 'azit'. You can increase token acquisition efficiency by upgrading NFT Level, Character, etc.&#x20;
+
+**GASC NFT Details**&#x20;
+
+* Mainnet: Klaytn
+* Minting schedule: End of June, 2022 (TBA)
+* Quantity: 5,000 units
+* Price: (TBA)
+* 3Q Beta Test
+
+### 관련 링크
+
+* [https://gasc.azit.app/](https://gasc.azit.app/)
+* [https://t.co/dAgP95Ex05](https://t.co/dAgP95Ex05)
+* [https://twitter.com/gaang\_azi](https://twitter.com/gaang\_azi)
+* [https://azitalliance.gitbook.io/gasc/gasc/azit-universe](https://azitalliance.gitbook.io/gasc/gasc/azit-universe)
