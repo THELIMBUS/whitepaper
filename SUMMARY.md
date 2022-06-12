@@ -4,26 +4,26 @@
 
 ## Guides
 
-* [로드맵](guides/undefined.md)
-* [팀구성](guides/undefined-1.md)
-* [파트너십](guides/undefined-2.md)
+* [Roadmap](guides/roadmap.md)
+* [Team](guides/team.md)
+* [Partnership](guides/partnership.md)
 
 ## About Game
 
-* [개발팀 구성](about-game/undefined-1.md)
-* [스토리](about-game/undefined-2.md)
-* [기본 시스템](about-game/undefined-3.md)
-* [게임 소개](about-game/undefined-4/README.md)
-  * [소개](about-game/undefined.md)
-  * [게임 방식](about-game/undefined-4/undefined.md)
-  * [그래픽 컨셉](about-game/undefined-4/undefined-1.md)
-  * [캐릭터 컨셉](about-game/undefined-4/undefined-2.md)
-  * [게임 컨텐츠 - 미니 게임](about-game/undefined-4/undefined-3.md)
-  * [게임 컨텐츠 - 탐험](about-game/undefined-4/undefined-4.md)
-  * [게임 내 재화 흭득과 소모(Ka,Ib)](about-game/ka-ib.md)
-* [NFT 요소](about-game/nft.md)
-* [P2E 요소](about-game/p2e.md)
-* [개발 일정](<about-game/undefined-3 (1).md>)
+* [About Dev Team](about-game/about-dev-team.md)
+* [Story](about-game/story.md)
+* [System](about-game/system.md)
+* [Introduction](about-game/introduction/README.md)
+  * [소개](about-game/introduction/undefined.md)
+  * [게임 방식](about-game/introduction/undefined-1.md)
+  * [그래픽 컨셉](about-game/introduction/undefined-2.md)
+  * [캐릭터 컨셉](about-game/introduction/undefined-3.md)
+  * [게임 컨텐츠 - 미니 게임](about-game/introduction/undefined-4.md)
+  * [게임 컨텐츠 - 탐험](about-game/introduction/undefined-5.md)
+  * [게임 내 재화 흭득과 소모(Ka,Ib)](about-game/introduction/ka-ib.md)
+* [NFT](about-game/nft.md)
+* [About P2E](about-game/about-p2e.md)
+* [Schedule](about-game/schedule.md)
 
 ## About NFT
 
@@ -32,12 +32,13 @@
 
 ## Tokenomics
 
-* [LIMBUS 토큰](tokenomics/limbus.md)
-* [거버넌스 토큰 생태계](tokenomics/undefined.md)
+* [LIMBUS Token](tokenomics/limbus-token.md)
+* [Governance Token Ecosystem](tokenomics/governance-token-ecosystem.md)
 
 ## External Links
 
-* [링크트리](https://linktr.ee/projectlimbus)
-* [디스코드](https://www.discord.gg/limbus)
-* [트위터](https://twitter.com/PROJECT\_LIMBUS)
-* [오픈씨](external-links/undefined.md)
+* [Linktree](https://linktr.ee/projectlimbus)
+* [Website](https://thelimbus.io/)
+* [Discord](https://www.discord.gg/limbus)
+* [Twitter](https://twitter.com/PROJECT\_LIMBUS)
+* [Opensea](external-links/opensea.md)
