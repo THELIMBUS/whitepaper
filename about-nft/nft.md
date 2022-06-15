@@ -11,7 +11,7 @@ coverY: 0
 
 * **발행량: 9,900개**
 * **판매 일정 및 방식**
-  1. 6월 15일: Pre-Sale1 (OG, @Beatus)
-  2. 6월 16일: Pre-Sale2 (WL, @Viator)
-  3. 6월 16일: Public Sale
+  1. 6월 20일: Pre-Sale1 (OG, @Beatus)
+  2. 6월 21일: Pre-Sale2 (WL, @Viator)
+  3. 6월 21일: Public Sale
   4. TEAM (500개)
