@@ -35,6 +35,10 @@
 * [LIMBUS Token](tokenomics/limbus-token.md)
 * [Governance Token Ecosystem](tokenomics/governance-token-ecosystem.md)
 
+***
+
+* [Terms of Service](terms-of-service.md)
+
 ## External Links
 
 * [Linktree](https://linktr.ee/projectlimbus)
