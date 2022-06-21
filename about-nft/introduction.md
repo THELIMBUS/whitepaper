@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/배너B_오픈씨 (3).jpg
 coverY: 0
 ---
 
-# NFT 구성
+# Introduction
 
 {% hint style="info" %}
 ### Asset List
@@ -19,7 +19,7 @@ coverY: 0
 #### GRADE&#x20;
 {% endhint %}
 
-![](../.gitbook/assets/1.PNG)
+![](<../.gitbook/assets/1 (1).PNG>)
 
 ![](../.gitbook/assets/2.PNG)
 
