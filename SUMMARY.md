@@ -45,4 +45,4 @@
 * [Website](https://thelimbus.io/)
 * [Discord](https://www.discord.gg/limbus)
 * [Twitter](https://twitter.com/PROJECT\_LIMBUS)
-* [Opensea](external-links/opensea.md)
+* [Opensea](https://opensea.io/collection/limbus-official)
