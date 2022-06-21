@@ -30,10 +30,9 @@
 * [Mint](about-nft/mint.md)
 * [Introduction](about-nft/introduction.md)
 
-## Tokenomics
+## Governance
 
-* [LIMBUS Token](tokenomics/limbus-token.md)
-* [Governance Token Ecosystem](tokenomics/governance-token-ecosystem.md)
+* [Governance Token Ecosystem](governance/governance-token-ecosystem.md)
 
 ***
 
