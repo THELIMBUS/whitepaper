@@ -15,4 +15,4 @@ LIMBUS는 NFT 민팅을 마치고 아래와 같은 일정으로 개임 개발이
 
 ## KAIROS
 
-![](../.gitbook/assets/3.jpg)
+![](<../.gitbook/assets/카이로스 로드맵.jpg>)
