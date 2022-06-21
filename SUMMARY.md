@@ -32,7 +32,7 @@
 
 ## Governance
 
-* [Governance Token Ecosystem](governance/governance-token-ecosystem.md)
+* [Token Ecosystem](governance/token-ecosystem.md)
 
 ***
 
