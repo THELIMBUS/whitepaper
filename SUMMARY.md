@@ -43,6 +43,6 @@
 
 * [Linktree](https://linktr.ee/projectlimbus)
 * [Website](https://thelimbus.io/)
-* [Discord](https://www.discord.gg/limbus)
 * [Twitter](https://twitter.com/PROJECT\_LIMBUS)
+* [Discord](https://www.discord.gg/limbus)
 * [Opensea](https://opensea.io/collection/limbus-official)
