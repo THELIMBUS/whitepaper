@@ -21,7 +21,7 @@
   * [게임 컨텐츠 - 미니 게임](about-game/introduction/undefined-4.md)
   * [게임 컨텐츠 - 탐험](about-game/introduction/undefined-5.md)
   * [게임 내 재화 흭득과 소모(Ka,Ib)](about-game/introduction/ka-ib.md)
-* [NFT](about-game/nft.md)
+  * [NFT](about-game/introduction/nft.md)
 * [About P2E](about-game/about-p2e.md)
 * [Schedule](about-game/schedule.md)
 
