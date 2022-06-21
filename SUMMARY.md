@@ -27,8 +27,8 @@
 
 ## About NFT
 
-* [NFT](about-nft/nft.md)
-* [NFT 구성](about-nft/nft-1.md)
+* [Mint](about-nft/mint.md)
+* [Introduction](about-nft/introduction.md)
 
 ## Tokenomics
 
